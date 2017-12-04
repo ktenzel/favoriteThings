@@ -1,0 +1,19 @@
+.jumbotron {
+  background-image: url(https://i.imgur.com/emSvYMy.gif);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 300px;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+img {
+  float: left;
+}
+
+
+
+#answerSki, #answerRiver, #answerCanyon, #answerVegas, #answerBeach {
+  display: none;
+}
